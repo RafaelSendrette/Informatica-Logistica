@@ -11,5 +11,6 @@ https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.2025
 
 ## Terceira atividade - Power BI Básico
 https://app.powerbi.com/links/1feVZCXyU4?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
-![New_SUVINILPower_BI_Logo svg](https://github.com/user-attachments/assets/36c1cc10-6918-4a74-ba86-728152cf43be)
+![Power-BI-Logo](https://github.com/user-attachments/assets/63cef19f-84e3-4025-9285-6bdbf4b97630)
+
 
