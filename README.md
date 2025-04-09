@@ -13,4 +13,6 @@ https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.2025
 https://app.powerbi.com/links/1feVZCXyU4?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
 ![Power-BI-Logo](https://github.com/user-attachments/assets/63cef19f-84e3-4025-9285-6bdbf4b97630)
 
-
+## Quarta atividade - Power BI Básico (Duplas)
+[https://app.powerbi.com/links/1feVZCXyU4?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare](https://fatecspgov-my.sharepoint.com/:u:/g/personal/matheus_santos424_fatec_sp_gov_br/Eb8UuFDReWxFoHKbgMNdyaABI7k7hO0PGj0IRtA1MyqXEQ?e=HiA68p)
+![Power-BI-Logo](https://github.com/user-attachments/assets/63cef19f-84e3-4025-9285-6bdbf4b97630)
