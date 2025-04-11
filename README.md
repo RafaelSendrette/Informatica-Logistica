@@ -16,7 +16,8 @@ https://app.powerbi.com/links/1feVZCXyU4?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 
 ## Quarta atividade - Excel Básico
 [[https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.20251/Student%20Work/Working%20files/RAFAEL%20RODRIGUES%20SENDRETTE%20GOMES/Usando%20f%C3%B3rmulas%20e%20dados%20abertos/Quantidade-de-alunos-estrangeiros-por-nacionalidade_2%C2%B0-Semestre-2023.xlsx?d=w3b49a7ee1ec743be99bc3539193ecf61&csf=1&web=1&e=7KpvE](https://fatecspgov-my.sharepoint.com/:x:/g/personal/rafael_gomes58_fatec_sp_gov_br/EZmfaFDe4QpMnEx5gHOO6fkBMnyJ3phE_MJeotC6pYKUhA?email=matheus.santos424%40fatec.sp.gov.br&wdOrigin=TEAMS-WEB.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1744411083106&web=1)s](https://fatecspgov-my.sharepoint.com/:x:/g/personal/rafael_gomes58_fatec_sp_gov_br/EZmfaFDe4QpMnEx5gHOO6fkBMnyJ3phE_MJeotC6pYKUhA?email=matheus.santos424%40fatec.sp.gov.br&wdOrigin=TEAMS-WEB.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1744411083106&web=1)
-![image](https://github.com/user-attachments/assets/30bacc8b-fe4e-4e60-b9d9-f4da9b3d722d)
+![image](https://github.com/user-attachments/assets/978c323f-ded0-46c5-83b1-d7f8d526f529)
+
 
 ## Quinta atividade - Power BI Básico (Duplas)
 [[https://app.powerbi.com/links/1feVZCXyU4?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare](https://fatecspgov-my.sharepoint.com/:u:/g/personal/matheus_santos424_fatec_sp_gov_br/Eb8UuFDReWxFoHKbgMNdyaABI7k7hO0PGj0IRtA1MyqXEQ?e=HiA68p)](https://fatecspgov-my.sharepoint.com/:u:/g/personal/rafael_gomes58_fatec_sp_gov_br/EfCFNIB_8vBOmbQy1_InxtcBC8WRLwmVAs-BeF7uHhlnzQ?email=rafael.gomes58%40fatec.sp.gov.br&e=WNC6CH)
