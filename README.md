@@ -19,4 +19,4 @@ https://app.powerbi.com/links/1feVZCXyU4?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 
 ## Quinta atividade - Power BI Básico (Duplas)
 [[https://app.powerbi.com/links/1feVZCXyU4?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare](https://fatecspgov-my.sharepoint.com/:u:/g/personal/matheus_santos424_fatec_sp_gov_br/Eb8UuFDReWxFoHKbgMNdyaABI7k7hO0PGj0IRtA1MyqXEQ?e=HiA68p)](https://fatecspgov-my.sharepoint.com/:u:/g/personal/rafael_gomes58_fatec_sp_gov_br/EfCFNIB_8vBOmbQy1_InxtcBC8WRLwmVAs-BeF7uHhlnzQ?email=rafael.gomes58%40fatec.sp.gov.br&e=WNC6CH)
-![Power-BI-Logo](https://github.com/user-attachments/assets/63cef19f-84e3-4025-9285-6bdbf4b97630)
+![image](https://github.com/user-attachments/assets/d053cb4c-3ce7-4d41-94ba-77f021386865)
