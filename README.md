@@ -1,4 +1,4 @@
-# Log.Inf
+[Consumo_cerveja.csv](https://github.com/user-attachments/files/20197707/Consumo_cerveja.csv)[Consumo_cerveja.csv](https://github.com/user-attachments/files/20197706/Consumo_cerveja.csv)# Log.Inf
 Aprendizado - Informática
 
 ## Primeira atividade - Apresentação de slides ( Apresentando nosso grupo )    
@@ -26,5 +26,8 @@ https://app.powerbi.com/links/1feVZCXyU4?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 ## Sexta atividade (I)
 [Uploading cerveja.ipynb…]()
 ![image](https://github.com/user-attachments/assets/d4657be1-66da-44f7-8920-ccd1e21af0a9)
+
+[Uploading Consumo_cerveja.csv…]()
+![image](https://github.com/user-attachments/assets/6126e1f9-fa7a-4346-806b-908202e2e25b)
 
 
