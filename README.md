@@ -24,6 +24,10 @@ https://app.powerbi.com/links/1feVZCXyU4?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 ![image](https://github.com/user-attachments/assets/d053cb4c-3ce7-4d41-94ba-77f021386865)
 
 ## Sexta atividade (I)
+[Uploading sorvete.ipynb…]()
+![image](https://github.com/user-attachments/assets/48c5981c-bdc1-4a21-95dc-9597cbfb3a1b)
+
+## Sexta atividade (II)
 [Uploading cerveja.ipynb…]()
 ![image](https://github.com/user-attachments/assets/d4657be1-66da-44f7-8920-ccd1e21af0a9)
 
