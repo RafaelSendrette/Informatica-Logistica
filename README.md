@@ -1,4 +1,4 @@
-[Consumo_cerveja.csv](https://github.com/user-attachments/files/20197707/Consumo_cerveja.csv)[Consumo_cerveja.csv](https://github.com/user-attachments/files/20197706/Consumo_cerveja.csv)# Log.Inf
+# Log.Inf
 Aprendizado - Informática
 
 ## Primeira atividade - Apresentação de slides ( Apresentando nosso grupo )    
