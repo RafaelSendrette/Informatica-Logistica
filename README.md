@@ -31,7 +31,12 @@ https://app.powerbi.com/links/1feVZCXyU4?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 [Uploading cerveja.ipynb…]()
 ![image](https://github.com/user-attachments/assets/d4657be1-66da-44f7-8920-ccd1e21af0a9)
 
-[Consumo_cerveja.xlsx](https://github.com/user-attachments/files/20198047/Consumo_cerveja.xlsx)
-![image](https://github.com/user-attachments/assets/6126e1f9-fa7a-4346-806b-908202e2e25b)
+## Sexta atividade (III)
+[Uploading HousePrices HalfMil.ipynb…]()
+![image](https://github.com/user-attachments/assets/4626e83c-8350-4929-9e36-ac242967f5b4)
+
+[HousePrices_HalfMil.csv](https://github.com/user-attachments/files/20418743/HousePrices_HalfMil.csv)
+![image](https://github.com/user-attachments/assets/dbd814d0-2ca2-4493-bf66-59b299edac16)
+
 
 
