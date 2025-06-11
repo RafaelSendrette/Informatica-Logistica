@@ -54,3 +54,5 @@ Tabela C
 
 ## Oitava atividade
 Vídeo explicativo sobre Power Apps (Fretes e clientes)
+https://github.com/user-attachments/assets/572618eb-0965-4ad4-becd-569bb0259c22
+
