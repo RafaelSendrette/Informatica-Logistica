@@ -51,3 +51,6 @@ Tabela B
 ![image](https://github.com/user-attachments/assets/ba1f7398-1252-443c-b22a-809c9930134a)
 Tabela C
 ![image](https://github.com/user-attachments/assets/bf41ce88-4b77-4bb0-a183-1b6607949afd)
+
+## Oitava atividade
+Vídeo explicativo sobre Power Apps (Fretes e clientes)
