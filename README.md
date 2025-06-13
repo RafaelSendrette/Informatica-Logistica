@@ -39,19 +39,20 @@ https://app.powerbi.com/links/1feVZCXyU4?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 ![image](https://github.com/user-attachments/assets/dbd814d0-2ca2-4493-bf66-59b299edac16)
 
 ## 📖 Sétima atividade (I)
-Tabela A
+📈Tabela A
 ![image](https://github.com/user-attachments/assets/a438cfd5-bde8-4afc-8fca-23c679c37d08)
-Tabela B
+
+📈Tabela B
 ![image](https://github.com/user-attachments/assets/21d1fab3-fea2-4fb0-80b4-952694863736)
 
 ## 📖Sétima atividade (II)
-Tabela A
+📈 Tabela A 
 ![image](https://github.com/user-attachments/assets/84fcc6ab-110b-4a53-9510-26ea2395df46)
 
-Tabela B
+📈 Tabela B 
 ![image](https://github.com/user-attachments/assets/ba1f7398-1252-443c-b22a-809c9930134a)
 
-Tabela C
+📈 abela C 
 ![image](https://github.com/user-attachments/assets/bf41ce88-4b77-4bb0-a183-1b6607949afd)
 
 ## 📖 Oitava atividade (I)
