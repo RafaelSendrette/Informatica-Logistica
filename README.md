@@ -52,8 +52,11 @@ Tabela B
 Tabela C
 ![image](https://github.com/user-attachments/assets/bf41ce88-4b77-4bb0-a183-1b6607949afd)
 
-## Oitava atividade
+## Oitava atividade (I)
 Vídeo explicativo sobre Power Apps (Fretes e clientes)
 https://github.com/user-attachments/assets/811299eb-55b3-41fb-9d8a-f1da581818e2
 
+## Oitava atividade (II)
+Vídeo explicativo sobre Power Automate (Movendo automaticamente um e-mail recebido de um destinatário específico)
+https://github.com/user-attachments/assets/dd6d3b78-edd0-44ec-9138-8247db5a1813
 
