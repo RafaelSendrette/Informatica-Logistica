@@ -70,3 +70,8 @@ https://github.com/user-attachments/assets/dd6d3b78-edd0-44ec-9138-8247db5a1813
 Vídeo explicativo sobre Power Apps (Dados Abertos SDP)
 https://github.com/user-attachments/assets/376a454e-a37e-495e-8a19-ac32ef116b6c
 
+# 📖 Nona atividade (II)
+Dashboard Interativo sobre o banco de dados
+![image](https://github.com/user-attachments/assets/6689f41c-1027-4743-acef-90c2ec50d980)
+
+
